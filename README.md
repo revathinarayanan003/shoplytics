@@ -99,5 +99,15 @@ python -m streamlit run data/app.py
 ##  Business Insights
 Shoplytics helps businesses understand revenue performance, identify valuable customers, recognise inactive customer segments and make data-driven decisions.
 
+
+## 📸 Dashboard Screenshots
+
+![Overview](screenshots/overview.png)
+![Customer Insights](screenshots/customer_insights.png)
+![Revenue by Country](screenshots/revenue_by_country.png)
+![Revenue Contribution](screenshots/revenue_contribution.png)
+![Sales Analysis](screenshots/sales%20analysis.png)
+![Transaction Records](screenshots/transaction%20records.png)
+
 ##  Author
 Revathi Narayanan
